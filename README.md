@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the main page of a startup company call Tingdong. This website was built using HTML, CSS, and Bootstrap.
+This is the main page of a startup company called Tingdong and can be viewed both on desktop and mobile. This website was built using HTML, CSS, and Bootstrap.
 
 ## Table of Contents
 
